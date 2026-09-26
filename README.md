@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME">
+  <a href="https://www.linkedin.com/in/hicham-saidi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:hichamsaidi353@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -23,8 +23,8 @@
 
 I am a new PhD student in Cybersecurity with a background in computer science, networking, and systems.
 
-I am currently interested in **IoT security**, **UAV systems**, and the use of **artificial intelligence** to solve challenging problems in connected and intelligent systems.
-
+<!--I am currently interested in **IoT security**, **UAV systems**, and the use of **artificial intelligence** to solve challenging problems in connected and intelligent systems.
+-->
 I like working on projects that combine different areas of technology and allow me to learn, experiment, and challenge myself.
 
 You can find some of my projects, experiments, and learning journey here.
@@ -35,7 +35,7 @@ You can find some of my projects, experiments, and learning journey here.
 - IoT and embedded systems
 - Computer networks
 - UAV and autonomous systems
-- Artificial intelligence and machine learning
+- Artificial intelligence and Reinforcement Learning
 - Cloud and infrastructure security
 - Security monitoring and network analysis
 
@@ -74,16 +74,6 @@ You can find some of my projects, experiments, and learning journey here.
 ## Currently Learning
 
 `IoT Security` · `UAV Systems` · `Artificial Intelligence` · `Systems Security`
-
----
-
-## Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME">LinkedIn</a>
-  ·
-  <a href="mailto:YOUR-EMAIL@example.com">Email</a>
-</p>
 
 
 <!--
