@@ -18,7 +18,7 @@
 </p>
 
 ---
-![Wave Animation](https://waveify.onrender.com/api/wave/sine?waveType=sine&color=%23007CF0&width=1000&height=180&amplitude=40&frequency=5&speed=3.5&glowIntensity=0.9)
+![Wave Animation](https://waveify.onrender.com/api/wave/sine?waveType=sine&color=%23007CF0&width=1000&height=50&amplitude=20&frequency=3&speed=3.5&glowIntensity=0.5)
 
 ## About Me
 
