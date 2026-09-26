@@ -21,14 +21,13 @@
 ![Wave Animation](https://waveify.onrender.com/api/wave/sine?waveType=sine&color=%23007CF0&width=1000&height=50&amplitude=20&frequency=3&speed=3.5&glowIntensity=0.5)
 
 ## About Me
-
 I am a new PhD student in Cybersecurity with a background in computer science, networking, and systems.
 
-<!--I am currently interested in **IoT security**, **UAV systems**, and the use of **artificial intelligence** to solve challenging problems in connected and intelligent systems.
--->
 I like working on projects that combine different areas of technology and allow me to learn, experiment, and challenge myself.
 
 You can find some of my projects, experiments, and learning journey here.
+
+
 
 ## Areas of Interest
 
@@ -126,4 +125,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160" />
+    </td>
+    <td width="65%" valign="middle">
+
+I am a new PhD student in Cybersecurity with a background in computer science, networking, and systems.
+
+I like working on projects that combine different areas of technology and allow me to learn, experiment, and challenge myself.
+
+You can find some of my projects, experiments, and learning journey here.
+
+  </td>
+  </tr>
+</table>
+
 -->
